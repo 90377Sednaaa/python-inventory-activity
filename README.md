@@ -27,7 +27,7 @@ The program runs in a loop and displays a menu that allows the user to:
 - Uses Python lists and dictionaries for data storage  
 
 ## 🖼️ Example Output
-<img width="1144" height="2680" alt="carbon" src="https://github.com/user-attachments/assets/ddcb5373-7d50-49b5-aa3b-a470e6c2c3ba" />
+<img width="1144" height="2122" alt="carbon(1)" src="https://github.com/user-attachments/assets/cfae6a03-55bf-4dc0-a47d-11a32d0d4573" />
 
 ## 👨‍💻 Created By
 **Lean Adrian B. Murillo**
