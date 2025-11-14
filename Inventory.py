@@ -2,7 +2,7 @@ items = []
 prices = {}
 
 while True:
-    print("==== Inventory Menu ====")
+    print("\n==== Inventory Menu ====")
     print(f"Current Items: {prices}")
     print("[1] Add Item")
     print("[2] Update Item")
